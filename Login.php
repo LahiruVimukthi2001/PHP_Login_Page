@@ -13,7 +13,10 @@
     </head>
     <body>
         <div class="login"> 
-
+        <form method="post" action="Server.php" id="login" onsubmit="return validated()">  
+        <img src="login.png" id="img"> 
+        <h2>Login Page</h2>
+        <br>
         </div>
     </body>
 </html>
