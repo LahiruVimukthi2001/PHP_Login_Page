@@ -17,6 +17,11 @@
         <img src="login.png" id="img"> 
         <h2>Login Page</h2>
         <br>
+
+        <label><b>User Name</b></label>    
+        <input type="text" name="username" id="Uname" placeholder="Enter Username">    
+        <br><br>   
+        
         </div>
     </body>
 </html>
