@@ -21,6 +21,11 @@
         <label><b>User Name</b></label>    
         <input type="text" name="username" id="Uname" placeholder="Enter Username">    
         <br><br>   
+
+        <label><b>Password</b></label>    
+        <input type="Password" name="password" id="Pass" placeholder="Enter Password">    
+        <br><br>
+
         
         </div>
     </body>
