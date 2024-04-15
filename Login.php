@@ -27,6 +27,9 @@
         <br><br>
 
         <input type="checkbox" id="check" name="check"><span>Remember me</span> 
+
+        <p>Incorrect username or Password, if you don't remember your password or usename. <a href="url">Forget Password?</a> </p>
+        <br>
         
         </div>
     </body>
