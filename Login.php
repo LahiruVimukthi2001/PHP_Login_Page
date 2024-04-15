@@ -26,6 +26,7 @@
         <input type="Password" name="password" id="Pass" placeholder="Enter Password">    
         <br><br>
 
+        <input type="checkbox" id="check" name="check"><span>Remember me</span> 
         
         </div>
     </body>
