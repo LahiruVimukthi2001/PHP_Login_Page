@@ -31,6 +31,9 @@
         <p>Incorrect username or Password, if you don't remember your password or usename. <a href="url">Forget Password?</a> </p>
         <br>
         
+        <input type="submit" name="log" id="log" placeholder="Log In Here">  &nbsp
+        <input type="reset" name="res" id="res" value="Cancel">
+
         </div>
     </body>
 </html>
