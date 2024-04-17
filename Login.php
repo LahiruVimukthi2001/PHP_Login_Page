@@ -34,6 +34,11 @@
         <input type="submit" name="log" id="log" placeholder="Log In Here">  &nbsp
         <input type="reset" name="res" id="res" value="Cancel">
 
+        <h4>Sign Up Using</h4>       
+
+        </form>
         </div>
+        <script src="Login.js"></script>
+
     </body>
 </html>
