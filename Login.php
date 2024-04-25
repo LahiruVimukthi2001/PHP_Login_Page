@@ -6,10 +6,14 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="" rel="stylesheet" type="text/css">
-    </head>
-    <style>
 
-    </style>
+        <style>
+          body{margin: 0;  
+               padding: 0;  
+               background-color:light blue;  
+               font-family: 'Arial';   }  
+   
+        </style>
     </head>
     <body>
         <div class="login"> 
