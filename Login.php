@@ -12,6 +12,16 @@
                padding: 0;  
                background-color:light blue;  
                font-family: 'Arial';   }  
+        
+          .login{width: 310px;  
+               overflow: hidden;  
+               margin: auto;  
+               margin-top: 30px;
+               margin: 20 0 0 450px;  
+               padding: 60px;  
+               background:rgb(5, 248, 204);  
+               border-radius: 30px ;  }  
+
    
         </style>
     </head>
