@@ -21,7 +21,10 @@
                padding: 60px;  
                background:rgb(5, 248, 204);  
                border-radius: 30px ;  }  
-
+              
+           h2{text-align: center;  
+               color: #2200ff;  
+               padding: 00px;  }
    
         </style>
     </head>
