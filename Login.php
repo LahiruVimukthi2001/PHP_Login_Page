@@ -25,6 +25,9 @@
            h2{text-align: center;  
                color: #2200ff;  
                padding: 00px;  }
+  
+           label{color: #090a0a;  
+                 font-size: 18px;  }
    
         </style>
     </head>
