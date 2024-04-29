@@ -28,6 +28,12 @@
   
            label{color: #090a0a;  
                  font-size: 18px;  }
+
+           #Uname{width: 300px;  
+                  height: 30px;  
+                  border: none;  
+                  border-radius: 3px;  
+                  padding-left: 8px;  } 
    
         </style>
     </head>
