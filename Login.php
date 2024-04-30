@@ -41,6 +41,15 @@
                   border-radius: 3px;  
                   padding-left: 8px;  }
 
+            #log{width: 100px;  
+                 height: 30px; 
+                 margin-left: 55px;
+                 border:none;  
+                 border-radius: 8px;  
+                 padding-left: 7px; 
+                 background-color: rgb(21, 188, 244);
+                 color: blue; }
+
    
         </style>
     </head>
