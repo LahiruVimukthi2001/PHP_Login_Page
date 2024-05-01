@@ -50,6 +50,15 @@
                  background-color: rgb(21, 188, 244);
                  color: blue; }
 
+            #res{width: 100px;  
+                 height: 30px;  
+                 border: none;  
+                 border-radius: 8px;  
+                 padding-left: 7px;  
+                 background-color: rgb(21, 188, 244);
+                 color: blue; }
+
+
    
         </style>
     </head>
