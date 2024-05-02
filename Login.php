@@ -58,7 +58,8 @@
                  background-color: rgb(21, 188, 244);
                  color: blue; }
 
-
+            span{color: white;  
+                 font-size: 17px; } 
    
         </style>
     </head>
