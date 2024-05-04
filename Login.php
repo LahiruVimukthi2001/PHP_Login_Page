@@ -60,6 +60,12 @@
 
             span{color: white;  
                  font-size: 17px; } 
+
+            p{color: #d81818; 
+              width: 310px;   
+              overflow: hidden;  
+              font-size: 12px;   }
+
    
         </style>
     </head>
