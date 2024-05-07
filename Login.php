@@ -66,6 +66,9 @@
               overflow: hidden;  
               font-size: 12px;   }
 
+              a{font-size: 12px;   }
+
+
    
         </style>
     </head>
