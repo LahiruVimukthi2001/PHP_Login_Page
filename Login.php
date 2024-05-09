@@ -70,6 +70,12 @@
              
               h4{ text-align: center;    }
 
+               #img{width:80px; 
+                    margin: auto;
+                    padding-bottom: px; 
+                    margin-left: 120px;}
+
+
 
    
         </style>
